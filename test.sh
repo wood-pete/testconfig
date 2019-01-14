@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "Getting ready to install"
+pip install azure-storage-file 
